@@ -53,9 +53,9 @@
 		</repository>
 	</repositories>
 	
-	<modules>
+	<!-- <modules>
 		<module>${project.name}-repo</module>
-	</modules>
+	</modules> -->
 	<distributionManagement>
 		<repository>
 			<id>internal.repo</id>
