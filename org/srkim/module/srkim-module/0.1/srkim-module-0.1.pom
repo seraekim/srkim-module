@@ -42,16 +42,16 @@
 		<github.global.server>github</github.global.server>
 	</properties>
 	
-	<repositories>
+	<!-- <repositories>
 		<repository>
-			<id>${parent.name}-mvn-repo</id>
-			<url>https://raw.github.com/seraekim/${parent.name}/mvn-repo/</url>
+			<id>${project.name}-mvn-repo</id>
+			<url>https://raw.github.com/seraekim/${project.name}/mvn-repo/</url>
 			<snapshots>
 				<enabled>true</enabled>
 				<updatePolicy>always</updatePolicy>
 			</snapshots>
 		</repository>
-	</repositories>
+	</repositories> -->
 	
 	<!-- <modules>
 		<module>${project.name}-repo</module>
